@@ -1,0 +1,35 @@
+body{
+    background-color:cornflowerblue;
+}
+
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    border-bottom: solid;
+    width:100%;
+    margin:0px;
+    background-color:plum;
+}
+
+.note{
+    color:black;
+    font-size:23px;
+}
+
+.disk_img{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.div_speed{
+    float:left;
+}
+
+.div_volume{
+    float:right;
+}
+
+canvas{
+    margin-left: 500px;
+    margin-top:30px;
+}
